@@ -6,4 +6,4 @@ https://fancy-chaja-8ec442.netlify.app/
 
 ### Description
 
-Users can translate text into multiple languages, copy translated text, and convert text to speech.
+This is a language translator application interface. Users can translate text into multiple languages, copy translated text, and convert text to speech.
