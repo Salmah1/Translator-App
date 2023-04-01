@@ -12,10 +12,10 @@ body {
   align-items: center;
   justify-content: center;
   min-height: 100vh;
-  background: #5372f0;
+  background: #5f9ea0;
 }
 
-.container {
+.wrapper-box {
   width: 690px;
   background: #fff;
   border-radius: 7px;
@@ -98,7 +98,7 @@ li,
   cursor: pointer;
 }
 
-.container button {
+.wrapper-box button {
   width: 100%;
   padding: 14px;
   margin-top: 20px;
@@ -108,5 +108,10 @@ li,
   border-radius: 5px;
   color: #fff;
   font-size: 17px;
-  background: #5372f0;
+  background: #5f9ea0;
+}
+
+.footer {
+  margin-top: 20px;
+  text-align: center;
 }
