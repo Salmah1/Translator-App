@@ -1,9 +1,5 @@
 # Language Translator
 
-## Link
-
-https://fancy-chaja-8ec442.netlify.app/
-
 ## Overview
 
 A web-based language translation application built with HTML, CSS, and JavaScript. The application allows users to translate text between multiple languages, listen to pronunciations using speech synthesis, and copy translations directly to their clipboard.
